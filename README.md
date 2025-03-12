@@ -39,7 +39,6 @@ Run the following command to install necessary packages:
 ```sh
 pip install -r requirements.txt
 ```
-*(Ensure `streamlit` and `requests` are included in `requirements.txt`)*
 
 #### **Start the Frontend**
 Run the Streamlit application with:
