@@ -6,7 +6,7 @@ This project consists of a **machine learning API** deployed on AWS and a **Stre
 - **API**: Hosted on AWS at `http://3.110.108.39:8000/predict`
 - **Frontend**: A Streamlit app (`frontend.py`) that runs locally and interacts with the API
 - **Model File**: The trained model (house_price_model.pkl) is stored on Google Drive and must be downloaded manually.
-- https://drive.google.com/file/d/1eTuwz-_jeS7Q4h3bqhfQEXrV42HTdW7y/view?usp=drive_link
+  https://drive.google.com/file/d/1eTuwz-_jeS7Q4h3bqhfQEXrV42HTdW7y/view?usp=drive_link
 
 ---
 ## **How to Run the Project**
